@@ -1,0 +1,27 @@
+#main_page a:link {
+color: #437C17;
+text-transform: none;
+text-decoration: none;
+}
+
+#main_page a:visited {
+color: #437C17;
+text-decoration: none;
+text-transform: none;
+}
+
+#main_page a:hover,a:active {
+color: #191919;
+text-decoration: underline
+}
+
+#main_page table {
+    text-align: center;
+}
+
+
+#main_page html,body {
+width:60%;
+margin: 0 auto;
+font size="+1";
+}
